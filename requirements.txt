@@ -1,0 +1,4 @@
+pandas
+plotly==5.3.1
+gdown
+taipy
