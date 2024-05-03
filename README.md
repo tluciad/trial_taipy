@@ -2,7 +2,14 @@
 
 This project demonstrates how to use Python, Plotly Express, Seaborn, and Taipy to visualize data and create a simple dashboard using sample data from Kaggle.
 
-![Screenshot 2024-05-03 at 11-20-47 Supermarket sales](https://github.com/tluciad/trialtaipy/assets/98775997/3ee53109-c35b-4e04-81b3-601c1b92d74c)
+![image](https://github.com/tluciad/trialtaipy/assets/98775997/d5c22107-70b4-4937-a3ec-afd51f8cb601)
+![image](https://github.com/tluciad/trialtaipy/assets/98775997/757ba2b1-1fa7-48f1-b67b-5915a578def0)
+![image](https://github.com/tluciad/trialtaipy/assets/98775997/25b3db37-f1b9-4f62-9a6a-2411e7009661)
+![image](https://github.com/tluciad/trialtaipy/assets/98775997/d40c1a2a-9722-4bc0-b049-fe68b2affc26)
+
+
+
+
 ![Screenshot 2024-05-03 at 11-21-07 Supermarket sales](https://github.com/tluciad/trialtaipy/assets/98775997/09abd8b8-2187-424b-b6d0-1f1cbb884c51)
 
 
